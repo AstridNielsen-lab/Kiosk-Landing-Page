@@ -63,7 +63,7 @@ function App() {
             </div>
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1582192730841-2a682d7375f9?auto=format&fit=crop&q=80&w=800"
+                src="https://raw.githubusercontent.com/AstridNielsen-lab/Kiosk-Landing-Page/refs/heads/index/src/Praia.png?auto=format&fit=crop&q=80&w=800"
                 alt="Quiosque na praia"
                 className="rounded-lg shadow-2xl transform hover:scale-105 transition-transform duration-500"
               />
