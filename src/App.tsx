@@ -3,7 +3,7 @@ import { UmbrellaIcon, ShoppingCart, Clock, BarChart3, Settings, Smartphone, Dat
 
 function App() {
   const handleWhatsApp = () => {
-    window.open('https://wa.me/5511992946628', '_blank');
+    window.open('https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=2c938084950cbacf01953b8139df167f', '_blank');
   };
 
   const handleAccessApp = () => {
